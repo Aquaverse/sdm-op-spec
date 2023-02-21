@@ -1,4 +1,4 @@
-# Sending.Me Open Platform Specification
+# SDM OP Specification
 
 This is a document project for Sending.Me Open Platform specification.
 
