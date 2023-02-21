@@ -2,6 +2,9 @@
 
 This is a document project for Sending.Me Open Platform specification.
 
+# Client-Server API 
+[Client-Server API](./content/client-server-api/index.md)
+
 ## How to contribute
 - git clone repo (https://github.com/Aquaverse/sdm-op-spec) 
 - write or edite document in markdown
