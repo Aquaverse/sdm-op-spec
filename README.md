@@ -19,4 +19,4 @@ Recommend tool: VS Code which contains many useful plugins like draw.io
 ## How to delpoy
 
 - contact gitbook admin to publish
-- public home page: [Sending.Me Open Platform Specification](https://sdm-op-spec.gitbook.io)
+- public home page: [Sending.Me Open Platform Specification](https://sendingme.gitbook.io/sending.me-open-platform/)
